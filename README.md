@@ -1,1 +1,1 @@
-# SoulSync
+# SpotifyClone
